@@ -6,6 +6,14 @@ CliqueFlickFinder - Your Personal Movie Recommender
 ## Introduction
 CliqueFlickFinder is a personalized movie recommendation system that aims to provide tailored movie suggestions based on user preferences. It helps movie enthusiasts discover the perfect movies to watch, improving their movie-watching experience.
 
+CliqueFlickFinder was born out of my personal struggle to find the perfect movie to watch during my free time. Countless hours were wasted scrolling through movie lists and reading reviews, only to end up undecided and frustrated.
+
+That's when the idea for CliqueFlickFinder struck me - a platform that simplifies the movie selection process and helps users discover movies tailored to their preferences.
+
+​
+
+This project holds a special place in my heart as it combines my passion for movies with my love for coding. It has been an incredible journey bringing this idea to life and seeing it evolve into a useful tool for movie enthusiasts.
+
 - [Deployed Site Demo](https://youtu.be/_0ZB6dAfqFI)
 - [Final Project Blog Article](https://ngosamichael.wixsite.com/cliqueflick)
 - [Author's LinkedIn](https://www.linkedin.com/in/michael-ngosa-64a464186/)
